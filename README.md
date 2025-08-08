@@ -1,9 +1,9 @@
 # -----------------------------------------
-# |  ████    ██    ██████    ████████     |
-# |  ██ ██   ██    ██           ██        |
-# |  ██  ██  ██    ██████       ██        |
-# |  ██   ██ ██    ██           ██        |
-# |  ██    ██ █    ██████       ██        |
+# |  ████    ██████  ████████             |
+# |  ██ ██   ██        ██    ██████       |
+# |  ██  ██  ██████    ██    ██  ██       |
+# |  ██   ██     ██    ██    ██  ██       |
+# |  ██    ██ ██████    ██   ██  ██       |
 # -----------------------------------------
 
 # NET - APP ACCOUNT SELLER
@@ -30,4 +30,3 @@ This platform allows users to buy and sell gaming accounts easily and securely.
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/net-account-seller.git
-
