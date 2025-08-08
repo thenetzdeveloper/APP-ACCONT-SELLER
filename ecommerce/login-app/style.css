@@ -1,0 +1,33 @@
+    body {
+        font-family: Arial;
+        background: #f2f2f2;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        background-image: url(../home/logo/logome.png);
+    }
+
+    .login-box {
+        background: white;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px gray;
+        width: 300px;
+    }
+
+    input {
+        width: 100%;
+        padding: 10px;
+        margin: 10px 0;
+    }
+
+    input[type="submit"] {
+        background: #007bff;
+        color: white;
+        border: none;
+    }
+
+    input[type="submit"]:hover {
+        background: #0056b3;
+    }
